@@ -21,4 +21,3 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
   console.log(`Heroku simple WebAPI app listening at http://localhost:${port}`)
 })
-
